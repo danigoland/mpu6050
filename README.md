@@ -2,7 +2,7 @@
 
 Minimal Node.js module for reading the raw data from an MPU6050.
 
-This module has been tested on a BeagleBone Black.
+This module has been tested on a BeagleBone Black and Raspberry Pi.
 
 ## Install
 
